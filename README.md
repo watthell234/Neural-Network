@@ -1,3 +1,3 @@
 # Neural-Network
+Holiday seasonality is harder for a network to learn.
 
-The prediction errors towards the holidays is due to the fact that these dummy variables are a bit more erratic than we initially thought. Seasonality is one of the harder for a network to learn.
